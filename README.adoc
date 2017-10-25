@@ -18,4 +18,6 @@ Outline of demo:
 
 . Graphics - adding giphy graphics
 
+. Actions macros
+
 . Publishing a game - github, or other hosting services.
