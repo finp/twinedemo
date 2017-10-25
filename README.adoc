@@ -1,6 +1,8 @@
 = Twine Demo
 Purpose: To demonstrate link:https://twinery.org/ to a young audience, with the hope that they can then write a simple twine game and learn more about software and twine afterwards.
 
+Scope: Twine using the http://www.motoslave.net/sugarcube/2/ story format.
+
 Outline of demo:
 
 . Page - create a page and play it.
