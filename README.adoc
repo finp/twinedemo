@@ -1,0 +1,18 @@
+= Twine Demo
+Purpose: To demonstrate link:https://twinery.org/ to a young audience, with the hope that they can then write a simple twine game and learn more about software and twine afterwards.
+
+Outline of demo:
+
+. Page - create a page and play it.
+
+. Links - create two links and play the game. Show the 'back' button.
+
+. Variables - what are they?
+
+. Game score variable, initialize and show how it can be incremented 
+
+. Game mechanics - gain and lose scores
+
+. Graphics - adding giphy graphics
+
+. Publishing a game - github, or other hosting services.
